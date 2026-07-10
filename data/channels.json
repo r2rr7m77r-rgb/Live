@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "4d50bfc7",
+    "name": "Bein sport",
+    "logo": "",
+    "description": "بث",
+    "streams": [
+      {
+        "label": "1080p",
+        "url": "http://149.18.45.65/live/MAGS6WSWCXV/RY1DQM6U/33.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "clear_key": ""
+      }
+    ],
+    "active": true,
+    "created": "2026-07-10T16:14:12.012974"
+  }
+]
