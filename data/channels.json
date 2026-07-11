@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "46e43267",
+    "name": "Test",
+    "logo": "",
+    "description": "Test",
+    "streams": [
+      {
+        "label": "1080p",
+        "url": "https://buzcdn.com/live/master.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "clear_key": ""
+      }
+    ],
+    "active": true,
+    "created": "2026-07-11T11:20:17.996899"
+  }
+]
